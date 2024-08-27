@@ -27,5 +27,10 @@ console.log(lista)
 
 //objeto
 let person = {nome: "sabrina",
-            idade: 20}
-console.log(person)
+    idade: 20}
+    console.log(person)
+
+    let raio = 7; //experimentar guardar esse valor
+    const pi = 3.141159; 
+    let area = pi = raio = raio; 
+    console.log("a area do circulo é: " +area)
